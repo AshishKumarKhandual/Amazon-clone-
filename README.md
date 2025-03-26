@@ -1,2 +1,2 @@
 # Amazon-clone-
-Created fully functional website using html ,css, javascript , nodejs , mongo db and other front and backend libraries
+Amazon Clone is a full-stack eCommerce application that replicates Amazon’s core features. The frontend (built with React, Next.js, or Vue.js) provides a seamless shopping experience with product listings, search, cart management, and user authentication. The backend (using Node.js, Express, or Django with a database like MongoDB or PostgreSQL) handles user authentication, product management, orders, and payment integration (e.g., Stripe). This clone includes an admin panel for product and order management, ensuring a complete online marketplace experience.
